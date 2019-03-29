@@ -13,11 +13,13 @@ npm start
 
 ## Workshop Information
 
-Slides: in the slides folder
-Video: [TODO]
+Slides: ./slides 
+Video: https://files-rrpmdikoqb.now.sh
 
 ## Answers
 
-In the answers folder
+./answers
+
+
 
 
